@@ -11,3 +11,13 @@ commonly used in data engineering pipelines.
 
 ## Focus
 Clean code, logging, and real-world use cases.
+
+
+## Repository Structure
+- read_csv.py – CSV file ingestion
+- api_ingestion.py – External API ingestion
+- data_cleaning.py – Cleaning & deduplication
+- write_parquet.py – Parquet file writer
+- logging_example.py – Logging best practices
+- src/ – Source code folder (scalable design)
+- data/ – Data storage placeholder
